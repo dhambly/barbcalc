@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="barbcalc">
+    <output-path>$PROJECT_DIR$/out/artifacts/barbcalc</output-path>
+    <root id="archive" name="barbcalc.jar" />
+  </artifact>
+</component>
